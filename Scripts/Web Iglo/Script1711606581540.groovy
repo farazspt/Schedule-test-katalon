@@ -21,7 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.indocyber.co.id/')
 
-WebUI.click(findTestObject('Object Repository/web iglo/Page_Home  Indocyber/a_About Us'))
+WebUI.click(findTestObject('Object Repository/contact_us/Page_Home  Indocyber/a_Contact Us'))
+
+WebUI.setText(findTestObject('Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_name'), 
+    'Faraz Septarian')
+
+WebUI.setText(findTestObject('Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_email'), 
+    'faraz.nugroho@indocyber.id')
 
 WebUI.closeBrowser()
 
