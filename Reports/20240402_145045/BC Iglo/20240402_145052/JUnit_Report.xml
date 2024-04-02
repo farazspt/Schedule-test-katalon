@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="BC Iglo" time="11.792" tests="1" failures="0" errors="0">
+   <testsuite name="BC Iglo" tests="1" failures="0" errors="0" time="11.792" skipped="0" timestamp="02-04-2024T14:52:28" hostname="1901 - LAPTOP-LLV8UN8R.mshome.net" id="Test Suites/BC Iglo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\BC Iglo\\20240402_145052"/>
+         <property name="logFiles" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\BC Iglo\\20240402_145052\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="1901 - LAPTOP-LLV8UN8R.mshome.net"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="778dfb6325c34d258a60f4ea81a5e276"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/BC Iglo" time="11.596" classname="Test Cases/BC Iglo" status="PASSED">
+         <system-out><![CDATA[02-04-2024T14:52:28 - [TEST_CASE][PASSED] - Test Cases/BC Iglo: Test Cases/BC Iglo
+
+02-04-2024T14:52:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-04-2024T14:52:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-04-2024T14:52:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-04-2024T14:52:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-04-2024T14:52:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www.indocyber.co.id/"): Navigate to 'https://www.indocyber.co.id/' successfully
+
+02-04-2024T14:52:32 - [MESSAGE][PASSED] - Navigate to 'https://www.indocyber.co.id/' successfully
+
+02-04-2024T14:52:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/BC Iglo/Page_Home  Indocyber/a_Bootcamp")): Object: 'Object Repository/BC Iglo/Page_Home  Indocyber/a_Bootcamp' is clicked on
+
+02-04-2024T14:52:34 - [MESSAGE][PASSED] - Object: 'Object Repository/BC Iglo/Page_Home  Indocyber/a_Bootcamp' is clicked on
+
+02-04-2024T14:52:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/button_Apply Now")): Object: 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/button_Apply Now' is clicked on
+
+02-04-2024T14:52:36 - [MESSAGE][PASSED] - Object: 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/button_Apply Now' is clicked on
+
+02-04-2024T14:52:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_name"), "Faraz Septarian Adi Nugroho"): Text 'Faraz Septarian Adi Nugroho' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_name'
+
+02-04-2024T14:52:37 - [MESSAGE][PASSED] - Text 'Faraz Septarian Adi Nugroho' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_name'
+
+02-04-2024T14:52:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_email"), "faraz.spt@indocyber.id"): Text 'faraz.spt@indocyber.id' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_email'
+
+02-04-2024T14:52:38 - [MESSAGE][PASSED] - Text 'faraz.spt@indocyber.id' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_email'
+
+02-04-2024T14:52:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_handphone"), "0812345678"): Text '0812345678' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_handphone'
+
+02-04-2024T14:52:39 - [MESSAGE][PASSED] - Text '0812345678' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_handphone'
+
+02-04-2024T14:52:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/div_OracleSQL Server.NETJavaMagicJOIN NOWRe_425abe")): Object: 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/div_OracleSQL Server.NETJavaMagicJOIN NOWRe_425abe' is clicked on
+
+02-04-2024T14:52:39 - [MESSAGE][PASSED] - Object: 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/div_OracleSQL Server.NETJavaMagicJOIN NOWRe_425abe' is clicked on
+
+02-04-2024T14:52:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-04-2024T14:52:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-04-2024T14:52:28 - [TEST_SUITE][PASSED] - BC Iglo: Test Cases/BC Iglo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

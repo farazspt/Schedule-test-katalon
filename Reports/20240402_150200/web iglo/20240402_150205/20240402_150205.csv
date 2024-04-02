@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+web iglo,Chrome 123.0.0.0,,,02-04-2024 15:04:04,02-04-2024 15:04:13,9.486s,PASSED
+,,,,,,,
+Test Cases/Web Iglo,Chrome 123.0.0.0,,,02-04-2024 15:04:04,02-04-2024 15:04:13,9.280s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,02-04-2024 15:04:04,02-04-2024 15:04:06,2.043s,PASSED
+"navigateToUrl(""https://www.indocyber.co.id/"")",Chrome 123.0.0.0,,,02-04-2024 15:04:06,02-04-2024 15:04:07,0.305s,PASSED
+"click(findTestObject(""Object Repository/contact_us/Page_Home  Indocyber/a_Contact Us""))",Chrome 123.0.0.0,,,02-04-2024 15:04:07,02-04-2024 15:04:09,2.546s,PASSED
+"setText(findTestObject(""Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_name""), ""Faraz Septarian"")",Chrome 123.0.0.0,,,02-04-2024 15:04:09,02-04-2024 15:04:11,1.840s,PASSED
+"setText(findTestObject(""Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_email""), ""faraz.nugroho@indocyber.id"")",Chrome 123.0.0.0,,,02-04-2024 15:04:11,02-04-2024 15:04:13,1.336s,PASSED
+"takeScreenshotAsCheckpoint(""1"")",Chrome 123.0.0.0,,,02-04-2024 15:04:13,02-04-2024 15:04:13,0.681s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,02-04-2024 15:04:13,02-04-2024 15:04:13,0.180s,PASSED

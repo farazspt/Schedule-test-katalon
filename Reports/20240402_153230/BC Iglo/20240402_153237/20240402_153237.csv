@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BC Iglo,Chrome 123.0.0.0,,,02-04-2024 15:34:44,02-04-2024 15:34:56,11.901s,PASSED
+,,,,,,,
+Test Cases/BC Iglo,Chrome 123.0.0.0,,,02-04-2024 15:34:45,02-04-2024 15:34:56,11.646s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,02-04-2024 15:34:45,02-04-2024 15:34:47,2.185s,PASSED
+"navigateToUrl(""https://www.indocyber.co.id/"")",Chrome 123.0.0.0,,,02-04-2024 15:34:47,02-04-2024 15:34:48,0.750s,PASSED
+"click(findTestObject(""Object Repository/BC Iglo/Page_Home  Indocyber/a_Bootcamp""))",Chrome 123.0.0.0,,,02-04-2024 15:34:48,02-04-2024 15:34:51,2.868s,PASSED
+"click(findTestObject(""Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/button_Apply Now""))",Chrome 123.0.0.0,,,02-04-2024 15:34:51,02-04-2024 15:34:53,1.922s,PASSED
+"setText(findTestObject(""Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_name""), ""Faraz Septarian Adi Nugroho"")",Chrome 123.0.0.0,,,02-04-2024 15:34:53,02-04-2024 15:34:54,1.564s,PASSED
+"setText(findTestObject(""Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_email""), ""faraz.spt@indocyber.id"")",Chrome 123.0.0.0,,,02-04-2024 15:34:54,02-04-2024 15:34:55,0.672s,PASSED
+"setText(findTestObject(""Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_handphone""), ""0812345678"")",Chrome 123.0.0.0,,,02-04-2024 15:34:55,02-04-2024 15:34:56,0.695s,PASSED
+"click(findTestObject(""Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/div_OracleSQL Server.NETJavaMagicJOIN NOWRe_425abe""))",Chrome 123.0.0.0,,,02-04-2024 15:34:56,02-04-2024 15:34:56,0.355s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,02-04-2024 15:34:56,02-04-2024 15:34:56,0.230s,PASSED

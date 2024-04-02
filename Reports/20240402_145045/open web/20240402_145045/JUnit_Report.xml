@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="open web" time="129.557" tests="5" failures="0" errors="0">
+   <testsuite name="youtube" tests="1" failures="0" errors="0" time="16.613" skipped="0" timestamp="02-04-2024T14:51:04" hostname="1901 - LAPTOP-LLV8UN8R.mshome.net" id="Test Suites/youtube">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\youtube\\20240402_145046"/>
+         <property name="logFiles" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\youtube\\20240402_145046\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="1901 - LAPTOP-LLV8UN8R.mshome.net"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="450cfa8a5ed21ba42192a0357b738420"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/open youtube" time="16.393" classname="Test Cases/open youtube" status="PASSED">
+         <system-out><![CDATA[02-04-2024T14:51:05 - [TEST_CASE][PASSED] - Test Cases/open youtube: Test Cases/open youtube
+
+02-04-2024T14:51:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-04-2024T14:51:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-04-2024T14:51:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-04-2024T14:51:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-04-2024T14:51:07 - [TEST_STEP][PASSED] - navigateToUrl("https://www.youtube.com/?themeRefresh=1"): Navigate to 'https://www.youtube.com/?themeRefresh=1' successfully
+
+02-04-2024T14:51:15 - [MESSAGE][PASSED] - Navigate to 'https://www.youtube.com/?themeRefresh=1' successfully
+
+02-04-2024T14:51:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/search youtube/Page_YouTube/input_Skip navigation_search_query"), "katalon schedule test"): Text 'katalon schedule test' is set on object 'Object Repository/search youtube/Page_YouTube/input_Skip navigation_search_query'
+
+02-04-2024T14:51:17 - [MESSAGE][PASSED] - Text 'katalon schedule test' is set on object 'Object Repository/search youtube/Page_YouTube/input_Skip navigation_search_query'
+
+02-04-2024T14:51:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/search youtube/Page_YouTube/div")): Object: 'Object Repository/search youtube/Page_YouTube/div' is clicked on
+
+02-04-2024T14:51:20 - [MESSAGE][PASSED] - Object: 'Object Repository/search youtube/Page_YouTube/div' is clicked on
+
+02-04-2024T14:51:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-04-2024T14:51:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-04-2024T14:51:04 - [TEST_SUITE][PASSED] - youtube: Test Cases/open youtube]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Search Iglo" tests="1" failures="0" errors="0" time="16.23" skipped="0" timestamp="02-04-2024T14:51:34" hostname="1901 - LAPTOP-LLV8UN8R.mshome.net" id="Test Suites/Search Iglo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\Search Iglo\\20240402_145048"/>
+         <property name="logFiles" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\Search Iglo\\20240402_145048\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-2.png"/>
+         <property name="hostName" value="1901 - LAPTOP-LLV8UN8R.mshome.net"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="1e0f5e378b032491bbd20845629100bd"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Search Indocyber" time="16.029" classname="Test Cases/Search Indocyber" status="PASSED">
+         <system-out><![CDATA[02-04-2024T14:51:34 - [TEST_CASE][PASSED] - Test Cases/Search Indocyber: Test Cases/Search Indocyber
+
+02-04-2024T14:51:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-04-2024T14:51:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-04-2024T14:51:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-04-2024T14:51:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-04-2024T14:51:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+02-04-2024T14:51:39 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+02-04-2024T14:51:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Search Iglo/Page_Google/textarea_Login_q"), "indocyber"): Text 'indocyber' is set on object 'Object Repository/Search Iglo/Page_Google/textarea_Login_q'
+
+02-04-2024T14:51:41 - [MESSAGE][PASSED] - Text 'indocyber' is set on object 'Object Repository/Search Iglo/Page_Google/textarea_Login_q'
+
+02-04-2024T14:51:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Search Iglo/Page_Google/span_Indocyber Global Teknologi")): Object: 'Object Repository/Search Iglo/Page_Google/span_Indocyber Global Teknologi' is clicked on
+
+02-04-2024T14:51:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Search Iglo/Page_Google/span_Indocyber Global Teknologi' is clicked on
+
+02-04-2024T14:51:42 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("2"): Taking screenshot successfully
+
+02-04-2024T14:51:45 - [MESSAGE][INFO] - 0 hidden object(s)
+
+02-04-2024T14:51:46 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-2.png]]
+
+02-04-2024T14:51:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Search Iglo/Page_indocyber global teknologi - Penelusur_63e8c8/h3_Indocyber Home")): Object: 'Object Repository/Search Iglo/Page_indocyber global teknologi - Penelusur_63e8c8/h3_Indocyber Home' is clicked on
+
+02-04-2024T14:51:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Search Iglo/Page_indocyber global teknologi - Penelusur_63e8c8/h3_Indocyber Home' is clicked on
+
+02-04-2024T14:51:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-04-2024T14:51:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-04-2024T14:51:34 - [TEST_SUITE][PASSED] - Search Iglo: Test Cases/Search Indocyber]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="web iglo" tests="1" failures="0" errors="0" time="11.613" skipped="0" timestamp="02-04-2024T14:52:04" hostname="1901 - LAPTOP-LLV8UN8R.mshome.net" id="Test Suites/web iglo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\web iglo\\20240402_145050"/>
+         <property name="logFiles" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\web iglo\\20240402_145050\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-1.png"/>
+         <property name="hostName" value="1901 - LAPTOP-LLV8UN8R.mshome.net"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="dc23cdc2dd5cfa2d71dbe028a99f1187"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Web Iglo" time="11.4" classname="Test Cases/Web Iglo" status="PASSED">
+         <system-out><![CDATA[02-04-2024T14:52:04 - [TEST_CASE][PASSED] - Test Cases/Web Iglo: Test Cases/Web Iglo
+
+02-04-2024T14:52:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-04-2024T14:52:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-04-2024T14:52:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-04-2024T14:52:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-04-2024T14:52:07 - [TEST_STEP][PASSED] - navigateToUrl("https://www.indocyber.co.id/"): Navigate to 'https://www.indocyber.co.id/' successfully
+
+02-04-2024T14:52:08 - [MESSAGE][PASSED] - Navigate to 'https://www.indocyber.co.id/' successfully
+
+02-04-2024T14:52:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/contact_us/Page_Home  Indocyber/a_Contact Us")): Object: 'Object Repository/contact_us/Page_Home  Indocyber/a_Contact Us' is clicked on
+
+02-04-2024T14:52:10 - [MESSAGE][PASSED] - Object: 'Object Repository/contact_us/Page_Home  Indocyber/a_Contact Us' is clicked on
+
+02-04-2024T14:52:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_name"), "Faraz Septarian"): Text 'Faraz Septarian' is set on object 'Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_name'
+
+02-04-2024T14:52:13 - [MESSAGE][PASSED] - Text 'Faraz Septarian' is set on object 'Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_name'
+
+02-04-2024T14:52:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_email"), "faraz.nugroho@indocyber.id"): Text 'faraz.nugroho@indocyber.id' is set on object 'Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_email'
+
+02-04-2024T14:52:14 - [MESSAGE][PASSED] - Text 'faraz.nugroho@indocyber.id' is set on object 'Object Repository/contact_us/Page_Contact Us  Indocyber/input_What can we do for you_email'
+
+02-04-2024T14:52:14 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("1"): Taking screenshot successfully
+
+02-04-2024T14:52:15 - [MESSAGE][INFO] - 0 hidden object(s)
+
+02-04-2024T14:52:15 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-1.png]]
+
+02-04-2024T14:52:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-04-2024T14:52:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-04-2024T14:52:04 - [TEST_SUITE][PASSED] - web iglo: Test Cases/Web Iglo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="BC Iglo" tests="1" failures="0" errors="0" time="11.792" skipped="0" timestamp="02-04-2024T14:52:28" hostname="1901 - LAPTOP-LLV8UN8R.mshome.net" id="Test Suites/BC Iglo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\BC Iglo\\20240402_145052"/>
+         <property name="logFiles" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\BC Iglo\\20240402_145052\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="1901 - LAPTOP-LLV8UN8R.mshome.net"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="778dfb6325c34d258a60f4ea81a5e276"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/BC Iglo" time="11.596" classname="Test Cases/BC Iglo" status="PASSED">
+         <system-out><![CDATA[02-04-2024T14:52:28 - [TEST_CASE][PASSED] - Test Cases/BC Iglo: Test Cases/BC Iglo
+
+02-04-2024T14:52:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-04-2024T14:52:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-04-2024T14:52:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-04-2024T14:52:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-04-2024T14:52:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www.indocyber.co.id/"): Navigate to 'https://www.indocyber.co.id/' successfully
+
+02-04-2024T14:52:32 - [MESSAGE][PASSED] - Navigate to 'https://www.indocyber.co.id/' successfully
+
+02-04-2024T14:52:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/BC Iglo/Page_Home  Indocyber/a_Bootcamp")): Object: 'Object Repository/BC Iglo/Page_Home  Indocyber/a_Bootcamp' is clicked on
+
+02-04-2024T14:52:34 - [MESSAGE][PASSED] - Object: 'Object Repository/BC Iglo/Page_Home  Indocyber/a_Bootcamp' is clicked on
+
+02-04-2024T14:52:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/button_Apply Now")): Object: 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/button_Apply Now' is clicked on
+
+02-04-2024T14:52:36 - [MESSAGE][PASSED] - Object: 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/button_Apply Now' is clicked on
+
+02-04-2024T14:52:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_name"), "Faraz Septarian Adi Nugroho"): Text 'Faraz Septarian Adi Nugroho' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_name'
+
+02-04-2024T14:52:37 - [MESSAGE][PASSED] - Text 'Faraz Septarian Adi Nugroho' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_name'
+
+02-04-2024T14:52:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_email"), "faraz.spt@indocyber.id"): Text 'faraz.spt@indocyber.id' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_email'
+
+02-04-2024T14:52:38 - [MESSAGE][PASSED] - Text 'faraz.spt@indocyber.id' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_email'
+
+02-04-2024T14:52:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_handphone"), "0812345678"): Text '0812345678' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_handphone'
+
+02-04-2024T14:52:39 - [MESSAGE][PASSED] - Text '0812345678' is set on object 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/input_JOIN NOW_handphone'
+
+02-04-2024T14:52:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/div_OracleSQL Server.NETJavaMagicJOIN NOWRe_425abe")): Object: 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/div_OracleSQL Server.NETJavaMagicJOIN NOWRe_425abe' is clicked on
+
+02-04-2024T14:52:39 - [MESSAGE][PASSED] - Object: 'Object Repository/BC Iglo/Page_Join Bootcamp at Indocyber  Indocyber/div_OracleSQL Server.NETJavaMagicJOIN NOWRe_425abe' is clicked on
+
+02-04-2024T14:52:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-04-2024T14:52:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-04-2024T14:52:28 - [TEST_SUITE][PASSED] - BC Iglo: Test Cases/BC Iglo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Search Tanjung duren" tests="1" failures="0" errors="0" time="13.85" skipped="0" timestamp="02-04-2024T14:52:52" hostname="1901 - LAPTOP-LLV8UN8R.mshome.net" id="Test Suites/Search Tanjung duren">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\Search Tanjung duren\\20240402_145054"/>
+         <property name="logFiles" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_145045\\Search Tanjung duren\\20240402_145054\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-3.png"/>
+         <property name="hostName" value="1901 - LAPTOP-LLV8UN8R.mshome.net"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="bfbf0b14e2787b52a71651ae2d076d0b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Search Tanjung Duren" time="13.61" classname="Test Cases/Search Tanjung Duren" status="PASSED">
+         <system-out><![CDATA[02-04-2024T14:52:53 - [TEST_CASE][PASSED] - Test Cases/Search Tanjung Duren: Test Cases/Search Tanjung Duren
+
+02-04-2024T14:52:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-04-2024T14:52:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-04-2024T14:52:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-04-2024T14:52:55 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-04-2024T14:52:55 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+02-04-2024T14:52:57 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+02-04-2024T14:52:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Search Tanjung duren/Page_Google/textarea_Login_q"), "tanjung duren"): Text 'tanjung duren' is set on object 'Object Repository/Search Tanjung duren/Page_Google/textarea_Login_q'
+
+02-04-2024T14:52:58 - [MESSAGE][PASSED] - Text 'tanjung duren' is set on object 'Object Repository/Search Tanjung duren/Page_Google/textarea_Login_q'
+
+02-04-2024T14:52:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Search Tanjung duren/Page_Google/span_Tanjung Duren Utara")): Object: 'Object Repository/Search Tanjung duren/Page_Google/span_Tanjung Duren Utara' is clicked on
+
+02-04-2024T14:52:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Search Tanjung duren/Page_Google/span_Tanjung Duren Utara' is clicked on
+
+02-04-2024T14:52:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Search Tanjung duren/Page_tanjung duren - Penelusuran Google/h3_Tanjung Duren Utara, Grogol Petamburan, _9c911c")): Object: 'Object Repository/Search Tanjung duren/Page_tanjung duren - Penelusuran Google/h3_Tanjung Duren Utara, Grogol Petamburan, _9c911c' is clicked on
+
+02-04-2024T14:53:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Search Tanjung duren/Page_tanjung duren - Penelusuran Google/h3_Tanjung Duren Utara, Grogol Petamburan, _9c911c' is clicked on
+
+02-04-2024T14:53:05 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("3"): Taking screenshot successfully
+
+02-04-2024T14:53:06 - [MESSAGE][INFO] - 0 hidden object(s)
+
+02-04-2024T14:53:06 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-3.png]]
+
+02-04-2024T14:53:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-04-2024T14:53:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-04-2024T14:52:52 - [TEST_SUITE][PASSED] - Search Tanjung duren: Test Cases/Search Tanjung Duren]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
