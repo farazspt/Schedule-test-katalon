@@ -21,11 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.google.com/')
 
-WebUI.setText(findTestObject('Object Repository/contact_us/Open Chatgpt/Page_Google/textarea_Login_q'), 'chat')
+WebUI.setText(findTestObject('Object Repository/Search Tanjung duren/Page_Google/textarea_Login_q'), 'tanjung duren')
 
-WebUI.click(findTestObject('Object Repository/contact_us/Open Chatgpt/Page_Google/span_chatgpt'))
+WebUI.click(findTestObject('Object Repository/Search Tanjung duren/Page_Google/span_Tanjung Duren Utara'))
 
-WebUI.click(findTestObject('Object Repository/contact_us/Open Chatgpt/Page_chatgpt - Penelusuran Google/h3_ChatGPT'))
+WebUI.click(findTestObject('Object Repository/Search Tanjung duren/Page_tanjung duren - Penelusuran Google/h3_Tanjung Duren Utara, Grogol Petamburan, _9c911c'))
+
+WebUI.takeScreenshotAsCheckpoint('3')
 
 WebUI.closeBrowser()
 

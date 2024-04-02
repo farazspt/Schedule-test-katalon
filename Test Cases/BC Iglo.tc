@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Open Chat Gpt</name>
+   <name>BC Iglo</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a6f586f4-f0c3-43af-8e82-115787ea2fc9</testCaseGuid>
+   <testCaseGuid>2a3c5c95-2dd3-4c7d-9416-51bb88f66683</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OracleSQL Server.NETJavaMagicJOIN NOWRe_425abe</name>
+   <tag></tag>
+   <elementGuidId>1077d03d-9d11-4d31-8210-0a1f79dc9c81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.style_classWrapper__OCeja</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;OracleSQL Server.NETJavaMagicJOIN NOW!Resume/CVUploadMax Size. 20 MBSubmit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67ff8285-1f07-4d80-8329-51fac6d6c8b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style_classWrapper__OCeja</value>
+      <webElementGuid>da22da8e-c71d-4a13-928a-391b404b90da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OracleSQL Server.NETJavaMagicJOIN NOW!Resume/CVUploadMax Size. 20 MBSubmit</value>
+      <webElementGuid>32938302-605d-4adb-9ebb-a0be27436f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;style_classWrapper__OCeja&quot;]</value>
+      <webElementGuid>803f50e9-e342-462b-86c9-a690eae702aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[4]/div</value>
+      <webElementGuid>31a1583a-7770-48ff-9493-7e030783b46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly Allowance and Laptop'])[1]/following::div[2]</value>
+      <webElementGuid>71259c5c-ec4a-4a08-8df2-afa4e7afdc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Promotion'])[1]/following::div[4]</value>
+      <webElementGuid>d86f0b7a-5271-47f7-91d7-72f8103c4986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>e117c72e-ce2b-4e57-8f62-d984bdb9402c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OracleSQL Server.NETJavaMagicJOIN NOW!Resume/CVUploadMax Size. 20 MBSubmit' or . = 'OracleSQL Server.NETJavaMagicJOIN NOW!Resume/CVUploadMax Size. 20 MBSubmit')]</value>
+      <webElementGuid>be3c9364-0ea3-4c4a-8c84-e5eb2512aa28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
