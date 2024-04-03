@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search Iglo,Chrome 123.0.0.0,,,03-04-2024 09:17:45,03-04-2024 09:17:55,9.578s,PASSED
+,,,,,,,
+Test Cases/Search Indocyber,Chrome 123.0.0.0,,,03-04-2024 09:17:45,03-04-2024 09:17:55,9.350s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,03-04-2024 09:17:46,03-04-2024 09:17:48,2.038s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 123.0.0.0,,,03-04-2024 09:17:48,03-04-2024 09:17:49,1.453s,PASSED
+"setText(findTestObject(""Object Repository/Search Iglo/Page_Google/textarea_Login_q""), ""indocyber"")",Chrome 123.0.0.0,,,03-04-2024 09:17:49,03-04-2024 09:17:50,0.980s,PASSED
+"click(findTestObject(""Object Repository/Search Iglo/Page_Google/span_Indocyber Global Teknologi""))",Chrome 123.0.0.0,,,03-04-2024 09:17:50,03-04-2024 09:17:51,0.806s,PASSED
+"takeScreenshotAsCheckpoint(""2"")",Chrome 123.0.0.0,,,03-04-2024 09:17:51,03-04-2024 09:17:54,2.701s,PASSED
+"click(findTestObject(""Object Repository/Search Iglo/Page_indocyber global teknologi - Penelusur_63e8c8/h3_Indocyber Home""))",Chrome 123.0.0.0,,,03-04-2024 09:17:54,03-04-2024 09:17:55,0.823s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,03-04-2024 09:17:55,03-04-2024 09:17:55,0.251s,PASSED

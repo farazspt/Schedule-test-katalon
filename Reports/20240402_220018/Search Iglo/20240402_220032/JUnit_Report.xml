@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Search Iglo" time="10.042" tests="1" failures="0" errors="0">
+   <testsuite name="Search Iglo" tests="1" failures="0" errors="0" time="10.042" skipped="0" timestamp="02-04-2024T22:03:44" hostname="1901 - LAPTOP-LLV8UN8R" id="Test Suites/Search Iglo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_220018\\Search Iglo\\20240402_220032"/>
+         <property name="logFiles" value="C:\\Users\\1901\\git\\Schedule-test-katalon\\Reports\\20240402_220018\\Search Iglo\\20240402_220032\\execution0.log"/>
+         <property name="attachments" value="keyes\keyes-2.png"/>
+         <property name="hostName" value="1901 - LAPTOP-LLV8UN8R"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.2.212"/>
+         <property name="browser" value="Chrome 123.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.10"/>
+         <property name="sessionId" value="e7db21006677dadfc9ed4051aff1b658"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Search Indocyber" time="9.823" classname="Test Cases/Search Indocyber" status="PASSED">
+         <system-out><![CDATA[02-04-2024T22:03:44 - [TEST_CASE][PASSED] - Test Cases/Search Indocyber: Test Cases/Search Indocyber
+
+02-04-2024T22:03:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-04-2024T22:03:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-04-2024T22:03:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-04-2024T22:03:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-04-2024T22:03:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+02-04-2024T22:03:48 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+02-04-2024T22:03:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Search Iglo/Page_Google/textarea_Login_q"), "indocyber"): Text 'indocyber' is set on object 'Object Repository/Search Iglo/Page_Google/textarea_Login_q'
+
+02-04-2024T22:03:49 - [MESSAGE][PASSED] - Text 'indocyber' is set on object 'Object Repository/Search Iglo/Page_Google/textarea_Login_q'
+
+02-04-2024T22:03:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Search Iglo/Page_Google/span_Indocyber Global Teknologi")): Object: 'Object Repository/Search Iglo/Page_Google/span_Indocyber Global Teknologi' is clicked on
+
+02-04-2024T22:03:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Search Iglo/Page_Google/span_Indocyber Global Teknologi' is clicked on
+
+02-04-2024T22:03:50 - [TEST_STEP][PASSED] - takeScreenshotAsCheckpoint("2"): Taking screenshot successfully
+
+02-04-2024T22:03:52 - [MESSAGE][INFO] - 0 hidden object(s)
+
+02-04-2024T22:03:53 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|keyes\keyes-2.png]]
+
+02-04-2024T22:03:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Search Iglo/Page_indocyber global teknologi - Penelusur_63e8c8/h3_Indocyber Home")): Object: 'Object Repository/Search Iglo/Page_indocyber global teknologi - Penelusur_63e8c8/h3_Indocyber Home' is clicked on
+
+02-04-2024T22:03:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Search Iglo/Page_indocyber global teknologi - Penelusur_63e8c8/h3_Indocyber Home' is clicked on
+
+02-04-2024T22:03:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-04-2024T22:03:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-04-2024T22:03:44 - [TEST_SUITE][PASSED] - Search Iglo: Test Cases/Search Indocyber]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search Tanjung duren,Chrome 123.0.0.0,,,02-04-2024 22:02:56,02-04-2024 22:03:07,10.883s,PASSED
+,,,,,,,
+Test Cases/Search Tanjung Duren,Chrome 123.0.0.0,,,02-04-2024 22:02:56,02-04-2024 22:03:07,10.658s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,02-04-2024 22:02:56,02-04-2024 22:02:58,2.148s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 123.0.0.0,,,02-04-2024 22:02:58,02-04-2024 22:03:00,1.799s,PASSED
+"setText(findTestObject(""Object Repository/Search Tanjung duren/Page_Google/textarea_Login_q""), ""tanjung duren"")",Chrome 123.0.0.0,,,02-04-2024 22:03:00,02-04-2024 22:03:01,0.852s,PASSED
+"click(findTestObject(""Object Repository/Search Tanjung duren/Page_Google/span_Tanjung Duren Utara""))",Chrome 123.0.0.0,,,02-04-2024 22:03:01,02-04-2024 22:03:02,0.786s,PASSED
+"click(findTestObject(""Object Repository/Search Tanjung duren/Page_tanjung duren - Penelusuran Google/h3_Tanjung Duren Utara, Grogol Petamburan, _9c911c""))",Chrome 123.0.0.0,,,02-04-2024 22:03:02,02-04-2024 22:03:05,3.457s,PASSED
+"takeScreenshotAsCheckpoint(""3"")",Chrome 123.0.0.0,,,02-04-2024 22:03:05,02-04-2024 22:03:06,1.049s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,02-04-2024 22:03:06,02-04-2024 22:03:07,0.235s,PASSED

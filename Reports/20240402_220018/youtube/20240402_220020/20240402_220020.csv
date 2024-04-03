@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+youtube,Chrome 123.0.0.0,,,02-04-2024 22:01:20,02-04-2024 22:01:31,11.705s,PASSED
+,,,,,,,
+Test Cases/open youtube,Chrome 123.0.0.0,,,02-04-2024 22:01:20,02-04-2024 22:01:31,11.447s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,02-04-2024 22:01:20,02-04-2024 22:01:23,2.755s,PASSED
+"navigateToUrl(""https://www.youtube.com/?themeRefresh=1"")",Chrome 123.0.0.0,,,02-04-2024 22:01:23,02-04-2024 22:01:26,3.208s,PASSED
+"setText(findTestObject(""Object Repository/search youtube/Page_YouTube/input_Skip navigation_search_query""), ""katalon schedule test"")",Chrome 123.0.0.0,,,02-04-2024 22:01:26,02-04-2024 22:01:29,2.643s,PASSED
+"click(findTestObject(""Object Repository/search youtube/Page_YouTube/div""))",Chrome 123.0.0.0,,,02-04-2024 22:01:29,02-04-2024 22:01:31,1.738s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,02-04-2024 22:01:31,02-04-2024 22:01:31,0.625s,PASSED
