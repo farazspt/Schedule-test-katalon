@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search Kawal Pemilu,Chrome 123.0.0.0,,,03-04-2024 12:10:28,03-04-2024 12:11:10,41.852s,PASSED
+,,,,,,,
+Test Cases/Search Kawal Pemilu,Chrome 123.0.0.0,,,03-04-2024 12:10:29,03-04-2024 12:11:10,41.662s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,03-04-2024 12:10:29,03-04-2024 12:10:31,1.829s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 123.0.0.0,,,03-04-2024 12:10:31,03-04-2024 12:10:32,1.098s,PASSED
+"setText(findTestObject(""Object Repository/Search kawal pemilu/Page_Google/textarea_Login_q""), ""kawal pemilu"")",Chrome 123.0.0.0,,,03-04-2024 12:10:32,03-04-2024 12:10:33,0.759s,PASSED
+"click(findTestObject(""Object Repository/Search kawal pemilu/Page_Google/span_kawal pemilu""))",Chrome 123.0.0.0,,,03-04-2024 12:10:33,03-04-2024 12:10:33,0.745s,PASSED
+"click(findTestObject(""Object Repository/Search kawal pemilu/Page_kawal pemilu - Penelusuran Google/h3_KawalPemilu 2024""))",Chrome 123.0.0.0,,,03-04-2024 12:10:33,03-04-2024 12:11:06,32.495s,PASSED
+"click(findTestObject(""Object Repository/Search kawal pemilu/Page_KawalPemilu 2024/a_BANTEN""))",Chrome 123.0.0.0,,,03-04-2024 12:11:06,03-04-2024 12:11:07,1.241s,PASSED
+"click(findTestObject(""Object Repository/Search kawal pemilu/Page_KawalPemilu 2024/a_KOTA TANGERANG SELATAN""))",Chrome 123.0.0.0,,,03-04-2024 12:11:07,03-04-2024 12:11:08,0.638s,PASSED
+"click(findTestObject(""Object Repository/Search kawal pemilu/Page_KawalPemilu 2024/a_PAMULANG""))",Chrome 123.0.0.0,,,03-04-2024 12:11:08,03-04-2024 12:11:08,0.582s,PASSED
+"click(findTestObject(""Object Repository/Search kawal pemilu/Page_KawalPemilu 2024/a_KEDAUNG""))",Chrome 123.0.0.0,,,03-04-2024 12:11:08,03-04-2024 12:11:09,0.618s,PASSED
+"takeScreenshotAsCheckpoint(""1"")",Chrome 123.0.0.0,,,03-04-2024 12:11:09,03-04-2024 12:11:10,1.082s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,03-04-2024 12:11:10,03-04-2024 12:11:10,0.224s,PASSED

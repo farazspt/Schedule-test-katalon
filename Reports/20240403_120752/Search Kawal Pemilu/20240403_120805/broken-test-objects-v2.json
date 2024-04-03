@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Search kawal pemilu/Page_kawal pemilu - Penelusuran Google/h3_KawalPemilu 2024",
+      "brokenLocator": "//div[@id\u003d\u0027rso\u0027]/div/div/div/div/div/div/div/div/div/span/a/h3",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Hasil Web dengan Sitelink\u0027])[1]/following::h3[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240403_120752/Search Kawal Pemilu/20240403_120805/Object Repository/Search kawal pemilu/Page_kawal pemilu - Penelusuran Google/h3_KawalPemilu 2024_neighbor.png"
+    }
+  ]
+}

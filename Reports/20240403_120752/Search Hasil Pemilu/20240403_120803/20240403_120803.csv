@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search Hasil Pemilu,Chrome 123.0.0.0,,,03-04-2024 12:09:57,03-04-2024 12:10:17,19.710s,PASSED
+,,,,,,,
+Test Cases/Search Hasil Pemilu,Chrome 123.0.0.0,,,03-04-2024 12:09:57,03-04-2024 12:10:17,19.526s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,03-04-2024 12:09:58,03-04-2024 12:10:00,1.965s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 123.0.0.0,,,03-04-2024 12:10:00,03-04-2024 12:10:01,1.384s,PASSED
+"setText(findTestObject(""Object Repository/Search hasil pemilu/Page_Google/textarea_Login_q""), ""hasil pemilu"")",Chrome 123.0.0.0,,,03-04-2024 12:10:01,03-04-2024 12:10:02,0.781s,PASSED
+"click(findTestObject(""Object Repository/Search hasil pemilu/Page_Google/span_hasil pemilu 2024""))",Chrome 123.0.0.0,,,03-04-2024 12:10:02,03-04-2024 12:10:02,0.742s,PASSED
+"click(findTestObject(""Object Repository/Search hasil pemilu/Page_hasil pemilu 2024 - Penelusuran Google/h3_Info Publik Pemilu 2024""))",Chrome 123.0.0.0,,,03-04-2024 12:10:02,03-04-2024 12:10:06,3.870s,PASSED
+"click(findTestObject(""Object Repository/Search hasil pemilu/Page_Info Publik Pemilu 2024/a_BANTEN""))",Chrome 123.0.0.0,,,03-04-2024 12:10:06,03-04-2024 12:10:07,0.498s,PASSED
+"click(findTestObject(""Object Repository/Search hasil pemilu/Page_Info Publik Pemilu 2024/a_KOTA TANGERANG SELATAN""))",Chrome 123.0.0.0,,,03-04-2024 12:10:07,03-04-2024 12:10:07,0.650s,PASSED
+"click(findTestObject(""Object Repository/Search hasil pemilu/Page_Info Publik Pemilu 2024/a_PAMULANG""))",Chrome 123.0.0.0,,,03-04-2024 12:10:07,03-04-2024 12:10:10,2.794s,PASSED
+"click(findTestObject(""Object Repository/Search hasil pemilu/Page_Info Publik Pemilu 2024/a_KEDAUNG""))",Chrome 123.0.0.0,,,03-04-2024 12:10:10,03-04-2024 12:10:13,2.700s,PASSED
+"click(findTestObject(""Object Repository/Search hasil pemilu/Page_Info Publik Pemilu 2024/a_TPS 017""))",Chrome 123.0.0.0,,,03-04-2024 12:10:13,03-04-2024 12:10:16,2.704s,PASSED
+"takeScreenshotAsCheckpoint(""1"")",Chrome 123.0.0.0,,,03-04-2024 12:10:16,03-04-2024 12:10:17,0.919s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,03-04-2024 12:10:17,03-04-2024 12:10:17,0.238s,PASSED
